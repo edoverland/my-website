@@ -1,6 +1,6 @@
 # my-website
-Adding some text here
-
-Edit on example branch
+This is a really awesome website
 
 Now editing on update-readme branch
+
+update locally
